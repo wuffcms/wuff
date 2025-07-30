@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+.env
+*.log
+npm-debug.log*
+
+# Editor config
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
